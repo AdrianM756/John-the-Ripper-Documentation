@@ -1,6 +1,7 @@
+![image](https://prd-cyberhub.oss-me-central-1.aliyuncs.com/uploads/ktetjCi-13QlTUNjeTWySQGxSRquwk)
+
 [John the Ripper](https://www.openwall.com/john/) is an Open Source password security auditing and password recovery tool.
 
-![image](https://prd-cyberhub.oss-me-central-1.aliyuncs.com/uploads/ktetjCi-13QlTUNjeTWySQGxSRquwk)
 
 ## Installation
 
