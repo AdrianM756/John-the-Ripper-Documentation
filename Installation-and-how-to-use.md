@@ -1,5 +1,7 @@
 [John the Ripper](https://www.openwall.com/john/) is an Open Source password security auditing and password recovery tool.
 
+![image](https://prd-cyberhub.oss-me-central-1.aliyuncs.com/uploads/ktetjCi-13QlTUNjeTWySQGxSRquwk)
+
 ## Installation
 
 On this demo, we will installing ** John the Ripper on Ubuntu. To install, input the following commands on the terminal.
